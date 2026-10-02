@@ -33,6 +33,7 @@ All required dependencies are already included in the repository:
 - GLFW
 - GLAD
 - stb_image
+- glm
 
 No additional installation is required.
 
