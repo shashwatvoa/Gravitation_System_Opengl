@@ -4,6 +4,6 @@
 #include<glm/glm.hpp>
 
 int main(){
-	std::cout << "Hello my name is Aakash"<<std::endl;
+	std::cout << "Hello my name is null"<<std::endl;
 	return 0;
 }
