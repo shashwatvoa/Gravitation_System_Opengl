@@ -11,7 +11,7 @@ This project visualises basic gravitational interactions using modern OpenGL.
 - GLFW window/context management
 - GLAD for OpenGL function loading
 - Simple gravitational system simulation
-- GLM library for OpenGL vectors, matrices, and transformations
+- GLM library for vectors, matrices, and transformations
 
 ---
 
