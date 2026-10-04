@@ -4,6 +4,7 @@
 #include<glm/glm.hpp>
 
 int main(){
-	std::cout << "Hello my name is sanny"<<std::endl;
+	std::cout << "Hello my name is sanny" <<std::endl;
+	std::cout << "Main ek KIITian hun" <<std::endl;
 	return 0;
 }
