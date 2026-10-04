@@ -11,7 +11,6 @@ This project visualises basic gravitational interactions using modern OpenGL.
 - GLFW window/context management
 - GLAD for OpenGL function loading
 - Simple gravitational system simulation
-- Clean and portable project structure
 
 ---
 
