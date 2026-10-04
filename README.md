@@ -1,6 +1,6 @@
 # 🌌 Gravitational System (OpenGL)
 
-A simple gravitational simulation built using **OpenGL**, **GLFW**, and **GLAD** in C++.  
+A simple gravitational simulation built using **OpenGL**, **GLFW**, **GLM**, and **GLAD** in C++.  
 This project visualises basic gravitational interactions using modern OpenGL.
 
 ---
