@@ -6,5 +6,6 @@
 int main(){
 	std::cout << "Hello my name is sanny" <<std::endl;
 	std::cout << "Main ek KIITian hun" <<std::endl;
+	std::cout << "KIIT University" << std::endl;
 	return 0;
 }
