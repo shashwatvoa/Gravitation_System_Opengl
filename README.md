@@ -19,7 +19,7 @@ This project visualises basic gravitational interactions using modern OpenGL.
 
 To build and run this project, you need:
 
-- **Visual Studio 2022**
+- **Visual Studio Community 2022-2026**
 - **Desktop development with C++** workload installed
 - **Platform Toolset: v145 (or latest available)**
 - Windows SDK (installed with Visual Studio)
